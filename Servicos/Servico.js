@@ -1,4 +1,4 @@
-import historicoInflacao from '../dados/dados.js';
+import historicoInflacao from '../Dados/dados.js';
 
 export const buscarHistorico = () => {
   return historicoInflacao;

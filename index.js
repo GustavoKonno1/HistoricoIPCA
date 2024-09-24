@@ -1,5 +1,5 @@
 import express from 'express';
-import { buscarHistorico, buscarHistoricoPorAno, buscarHistoricoPorId, calcularReajuste, validacaoErro } from './servicos/servico.js';
+import { buscarHistorico, buscarHistoricoPorAno, buscarHistoricoPorId, calcularReajuste, validacaoErro } from './Servicos/Servico.js';
 
 const app = express();
 
